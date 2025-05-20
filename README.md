@@ -8,10 +8,10 @@ REG. NO: 212223040147
 
 ## Date:
 
-## AIM
+## AIM:
 To create a Portfolio using HTML and CSS.
 
-## ALGORITHM
+## ALGORITHM:
 ### STEP 1
 Create an HTML file (index.html)
 
